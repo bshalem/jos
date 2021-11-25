@@ -12,7 +12,7 @@ The dataset resides in a single file: [SC_data.json](SC_data.json).
 More details on the collecting of the data is available in our companion paper:
 
 - Avi Bleiweiss. *Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing*. Technical Report, 2021.
-- 
+ 
 ### Citation
 If you use the JOS dataset as part of your work, please cite:
 
