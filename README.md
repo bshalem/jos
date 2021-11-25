@@ -1,5 +1,11 @@
-# jos
-JOS: a dataset of judicial opinion summaries joined by case-based meta-data to perform issue area discovery using neural text processing.
 # What is JOS?
-JOS is a hight-quality and sustainable movie review dataset we constructed to study automatic
-spoiler detection in social media posts.
+JOS is a high-quality and sustainable dataset that contains judicial opinion summaries of the US Supreme Court we scraped from FindLaw's public repository, and merged with docket entry meta-data we extracted from SCDB.
+
+The main goal of the dataset is to aid the study of automatic issue-area discovery in opinion summaries, using transformer-based language models pretrained on either a generalized or a legal domain. 
+
+The data is formatted as a collection of json objects.
+
+# Download JOS
+The dataset resides in a single file: [SC_data.json](SC_data.json).
+
+
