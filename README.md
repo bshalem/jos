@@ -6,17 +6,18 @@ The main goal of the dataset is to aid the study of automatic issue-area discove
 The data is formatted as a collection of json case objects.
 
 # Download JOS
-The dataset resides in a single file: [SC_data.json](SC_data.json).
+<!--The dataset resides in a single file: [SC_data.json](SC_data.json).-->
+Still under construction.
 
 # Paper
-More details on the collecting of the data is available in our companion paper:
+More details on the collecting of the data is available in our companion paper: TBD
 
-- Avi Bleiweiss. *Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing*. Technical Report, 2021.
+<!-- Avi Bleiweiss. *Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing*. Technical Report, 2021.-->
  
 ### Citation
-If you use the JOS dataset as part of your work, please cite:
+If you use the JOS dataset as part of your work, please cite: TBD
 
-    @techreport{BSR-NLP-21-01,
+   <!-- @techreport{BSR-NLP-21-01,
       title = "Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing",
       author = "Bleiweiss, Avi",
       month = sep,
@@ -26,5 +27,5 @@ If you use the JOS dataset as part of your work, please cite:
       institution = "BShalem Research",
       url = "https://www.aviitshakb.com/publications",
       pages = "7",
-    }
+    }-->
 
