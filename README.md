@@ -24,6 +24,6 @@ If you use the JOS dataset as part of your work, please cite:
       year = "2022",
       address = "online",
       publisher = "{SCITEPRESS}",
-      pages = "6",
+      pages = "938--944",
     }
 
