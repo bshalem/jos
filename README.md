@@ -14,8 +14,6 @@ More details on the collecting of the data is available in our companion paper:
 Avi Bleiweiss. *Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing*. In ICAART, 2022.
  
 ### Citation
-If you use the JOS dataset as part of your work, please cite:
-    
      @inproceedings{bleiweiss-2022-icaart,
       title = "Issue Area Discovery from Legal Opinion Summaries using Neural Text Processing",
       author = "Bleiweiss, Avi",
